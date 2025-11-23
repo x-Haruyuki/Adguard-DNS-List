@@ -5,7 +5,7 @@
 ||z-m-gateway.facebook.com^
 ||connectivitycheck.gstatic.com^
 ||a.lenovo.com^
-||example.org^
+||*.example.org^
 ||*.yahoo.com^
 ||pixal.facebook.com^
 ||an.facebook.com^
@@ -81,8 +81,8 @@
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
 ||googlesyndication.com^
-||googleadservices.com^
-||www.google-analytics.com^
+||*.googleadservices.com^
+||*.google-analytics.com^
 ||fls-eu.amazon.com^
 ||mads.amazon-adsystem.com^
 ||aax.amazon-adsystem.com^
