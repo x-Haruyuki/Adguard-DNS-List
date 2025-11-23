@@ -80,7 +80,6 @@
 ||app.bugsnag.com^
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
-Das ist eine ausgezeichnete Idee, um Ihre Blockierliste zu erweitern.Die Domains, die Sie bisher blockiert haben, sind hauptsächlich von großen sozialen Netzwerken, Analyse- und Werbediensten. Um die Blockierung zu vervollständigen, empfehle ich, Domains hinzuzufügen, die zu anderen sehr beliebten Werbe-, Analyse- und Tracking-Plattformen gehören.Hier ist eine Liste zusätzlicher häufig blockierter Domains, die ich im gleichen Format ||domain.com^ (ohne $important) für Sie vorbereitet habe:🌐 Weitere Domains zum Blockieren (Ads & Tracker)KategorieDomain-NameFilterregelGoogle Ads/Analyticsadservice.google.com`googlesyndication.com`googleadservices.com`www.google-analytics.com`Amazonfls-eu.amazon.com`mads.amazon-adsystem.com`aax.amazon-adsystem.com`Microsoft/Bingad.atdmt.com`c.atdmt.com`s.msn.com`Outbrain / Taboolaapi.outbrain.com`log.outbrain.com`cdn.taboola.com`Quantcastquantserve.com`pixel.quantserve.com`Critsmo / Criteocriteo.com`bidder.criteo.com`Andere Werbenetzwerkeopenx.net`adroll.com`exponential.com`Mobile Trackerapp-measurement.com`adjust.com`Zusammengefasste Liste (zum Kopieren)||adservice.google.com^
 ||googlesyndication.com^
 ||googleadservices.com^
 ||www.google-analytics.com^
